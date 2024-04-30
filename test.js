@@ -3,10 +3,10 @@ const SQL = require("./app");
 require('colors')
 
 let data = {
-    host: 'www.noonserv.com',
-    database: 'noonserv_node',
-    user: 'noonserv_node',
-    password: 'CPuwDzDjwhF2fDQ2b58R',
+    host: '...',
+    database: '...',
+    user: '...',
+    password: '...',
     port: 3306
 }
 
