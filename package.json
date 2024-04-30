@@ -1,0 +1,36 @@
+{
+  "name": "pro.sql",
+  "version": "1.0.0",
+  "description": "best SQL shortcuts...",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm app.js",
+    "test": "npm test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/in2Yt/pro.sql.git"
+  },
+  "keywords": [
+    "sql",
+    "pro.sql",
+    "pro sql",
+    "sql pro",
+    "sql shortcuts",
+    "shortcuts sql",
+    "system sql",
+    "sqll",
+    "mysql",
+    "mysql2"
+  ],
+  "bugs": {
+    "url": "https://github.com/in2Yt/pro.sql/issues"
+  },
+  "homepage": "https://github.com/in2Yt/pro.sql#readme",
+  "author": "in2_yt",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "mysql2": "^3.9.7"
+  }
+}
